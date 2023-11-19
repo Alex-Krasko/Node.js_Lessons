@@ -1,0 +1,15 @@
+{
+  "name": "lesson_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "./script.js"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "number-precision": "^1.6.0"
+  }
+}
