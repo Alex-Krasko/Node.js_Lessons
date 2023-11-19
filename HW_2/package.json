@@ -1,0 +1,15 @@
+{
+  "name": "Simple_math",
+  "version": "1.0.0",
+  "description": "Simplest math functions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Krasko/Node.js_Lessons/tree/main/HW_2"
+  },
+  "author": "Alex_Krasko",
+  "license": "ISC"
+}
